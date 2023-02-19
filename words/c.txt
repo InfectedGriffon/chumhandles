@@ -1,6 +1,6 @@
 candlelight
-corpuscule
-corpse
 chiasmus
-column
 chronic
+column
+corpse
+corpuscule
